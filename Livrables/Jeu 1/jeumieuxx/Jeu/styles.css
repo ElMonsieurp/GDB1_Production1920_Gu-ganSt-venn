@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+
+
+#entete {
+	background-color:#36659f;
+	border-bottom: 40px solid transparent;
+	display:block inline;
+}
+#titre {
+font-size: 100px;
+
+}
+
+h2 {
+	
+}
+
+
+/* Style the header */
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #CCC;
+  color: white;
+  background-repeat:no-repeat;
+}
+
+#snk {
+	width:240px;
+	height:250px;
+	
+}
+/* Increase the font size of the h1 element */
+.header h1 {
+  font-size: 40px;
+}
+

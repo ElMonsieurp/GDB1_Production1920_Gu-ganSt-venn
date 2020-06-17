@@ -1,0 +1,13 @@
+Bienvenue dans Casse boîte !
+
+Les touches attribuées sont :
+
+Touche directionnelle bas pour taper vers le bas.
+Touche directionnelle haut pour remonter les bras et pouvoir retaper vers le bas.
+
+
+Votre but est de frapper un maximum la boite pour augmenter votre force de super héros.
+
+Plus vous tapez, plus vous avez de points.
+
+Bonne chance à vous ! Et bon entrainement

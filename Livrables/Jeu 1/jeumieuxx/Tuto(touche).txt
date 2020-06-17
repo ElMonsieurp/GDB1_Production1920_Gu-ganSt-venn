@@ -1,0 +1,16 @@
+Bienvenue dans le micro jeu Bombs Party.
+
+Les touches attribuées sont 
+Touche directionnelle gauche pour aller à gauche.
+Touche directionnelle droite pour aller à droite.
+Touche directionnelle haut pour sauter.
+
+Vous pouvez reappuyer sur le bouton sauter pour faire un double saut quand vous êtes en l'air.
+
+Votre but est d'éviter les bombes de corruptions ,de récuperer vos pouvoirs grâce aux flammes dissipés sur le niveau et
+d'arriver au drapeau. 
+Plus vous en aurez plus vous aurez du score... Mais attention vous avez 10 secondes pour y réussir !
+
+Monter tout en haut du niveau pour réussir votre objectif principale.
+
+Bonne chance !

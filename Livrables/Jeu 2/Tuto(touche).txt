@@ -1,0 +1,17 @@
+Bienvenue dans Risque de brûlure !
+
+Les touches attribuées sont :
+Touche directionnelle gauche pour diriger la main à gauche.
+Touche directionnelle droite pour diriger la main à droite.
+Touche directionnelle haut pour tirer avec votre main.
+Un coup à la fois par appui de touche.
+
+Votre but est d'éliminer les ennemis, ils sont répresentés en rouge, mais attention il y aura aussi des innocents dans
+le lot.
+
+Les ennemis apparaitront toutes les deux secondes et resteront le même temps à l'écran.
+Si deux innocents apparaissent en même temps évitez de tirer dessus et attendez qu'ils partent !
+
+Plus vous éliminerez d'ennemis plus vous aurez de points.
+
+Bonne chance à vous !
